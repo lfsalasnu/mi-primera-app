@@ -1,0 +1,22 @@
+[
+        {
+            "titulo": "Titulo 1",
+            "descripcion": "Descripción 1",
+            "imagen":"./multimedia/Imagen1.jpg"
+        },
+        {
+            "titulo": "Titulo 2",
+            "descripcion": "Descripción 2",
+            "imagen":"./multimedia/imagen2.webp"
+        },
+        {
+            "titulo": "Titulo 3",
+            "descripcion": "Descripción 3",
+            "imagen":"./multimedia/imagen3.jpg"
+        },
+        {
+            "titulo": "Titulo 4",
+            "descripcion": "Descripción 4",
+            "imagen":"./multimedia/imagen4.png"
+        }
+    ]
