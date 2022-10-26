@@ -17,6 +17,12 @@ class Tarjeta extends Component {
                         <div className="card-body">
                             <h5 className="card-title">{this.props.titulo}</h5>
                             <p className="card-text">{this.props.descripcion}</p>
+                            <span className="bg bg-danger rounded-pill">Prioridad: {this.props.prioridad}</span>
+                            <br/>
+                            <span className="bg bg-success rounded-pill">Responsable: {this.props.responsable}</span>
+                            <br/>
+                            <span className="bg bg-primary rounded-pill">Tiempo: {this.props.tiempo} minutos</span>
+                            <br/>
                             <a href="#" className="btn btn-primary me-3">Editar</a>
                             <a href="#" className="btn btn-danger">Eliminar</a>
                         </div>

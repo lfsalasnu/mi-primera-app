@@ -2,21 +2,33 @@
         {
             "titulo": "Titulo 1",
             "descripcion": "Descripción 1",
-            "imagen":"./multimedia/Imagen1.jpg"
+            "imagen":"./multimedia/Imagen1.jpg",
+            "responsable":"Luis",
+            "prioridad":"Alta",
+            "tiempo":10
         },
         {
             "titulo": "Titulo 2",
             "descripcion": "Descripción 2",
-            "imagen":"./multimedia/imagen2.webp"
+            "imagen":"./multimedia/imagen2.webp",
+            "responsable":"Ariana",
+            "prioridad":"Media",
+            "tiempo":20
         },
         {
             "titulo": "Titulo 3",
             "descripcion": "Descripción 3",
-            "imagen":"./multimedia/imagen3.jpg"
+            "imagen":"./multimedia/imagen3.jpg",
+            "responsable":"Pedro",
+            "prioridad":"Baja",
+            "tiempo":30
         },
         {
             "titulo": "Titulo 4",
             "descripcion": "Descripción 4",
-            "imagen":"./multimedia/imagen4.png"
+            "imagen":"./multimedia/imagen4.png",
+            "responsable":"Paula",
+            "prioridad":"Alta",
+            "tiempo":40
         }
     ]

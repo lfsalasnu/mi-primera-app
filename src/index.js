@@ -6,11 +6,13 @@ import reportWebVitals from './reportWebVitals';
 //import Hola from './Componentes/hola';
 import Pie_pagina from './Componentes/Pie_pagina';
 import Formulario from './Componentes/Formulario';
+import Navegacion from './navegacion';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <Navegacion titulo="Titulo 1" enlace3h={true}/>
     <Formulario/>
+    <App />
     <Pie_pagina/>
   </React.StrictMode>
 );

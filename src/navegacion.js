@@ -14,7 +14,7 @@ class Navegacion extends Component {
                             <li className="nav-item">
                                 <a className="nav-link" aria-current="page" href="#">{this.props.enlace1}</a>
                             </li>
-                            <li class="nav-item">
+                            <li className="nav-item">
                                 <a className="nav-link" href="#">{this.props.enlace2}</a>
                             </li>
                             <li className="nav-item dropdown">
